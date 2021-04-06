@@ -1,0 +1,1 @@
+Este es el repositorio de ejemplo para el desarrollo de una aplicacion PHP, con su correspondiente automatizacion de pruebas
